@@ -1,0 +1,9 @@
+---
+name: BlackXP
+main: BlackTeam\BlackXP\Main
+api: [3.2.0]
+version: 1.0.0
+author: BlackTeam
+load: POSTWORLD
+description: Dites adieu aux orbes xp, ils arrivent maintenant directement dans votre inventaire.
+...
